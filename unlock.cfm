@@ -18,7 +18,7 @@
                             "name": "LOCK NAME REMOVED"
                         }
                     },
-                    "icon": "LOGO_URL_REMOVED
+                    "icon": "LOGO_URL_REMOVED"
                         "name": "Name",
                         "type": "text",
                         "required": true
