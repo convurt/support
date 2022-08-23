@@ -67,6 +67,8 @@ window.addEventListener("unlockProtocol.transactionSent", function (event) {
     // event.detail.hash includes the hash of the transaction sent
 });
 
+
+Here is a video of the issue as well: https://drive.google.com/file/d/1CO8fibE-vEGJZwqUdHANHOMV6pA23OHe/view
     --->
     
 
