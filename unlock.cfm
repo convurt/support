@@ -26,6 +26,22 @@
                 }
     </script>
     
+<!--- convurt.css has this code
+    
+.unlock-content {
+display: none;
+}
+
+.unlock-content .locked {
+    display: none;
+}
+
+.unlock-content .unlocked {
+    display: none;
+}
+
+--->
+    
     
     <!---unlocked--->
     <div class="unlock-content locked text-center my-5">
